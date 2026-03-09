@@ -17,3 +17,13 @@
   - Arquitetura
   - Limites arquiteturais
   - Percepção sobre regras de negócios
+
+### Pontos importantes sobre arquitetura
+
+- Formato que o software terá.
+- Divisão de componentes.
+- Comunicação entre componentes.
+- Uma boa arquitetura vai facilitar o processo de desenvolvimento, deploy, operação e manutenção.
+
+"The strategy behind that facilitation is to leave as many options open as possible, for as long as possible."
+C., Martin Robert, Clean Architecture (Robert C. Martin Series) (p. 136). Pearson Education. Kindle Edition.
